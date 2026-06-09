@@ -67,7 +67,7 @@ Dataset Size: 2772 Records
 * Algorithm: Random Forest Regressor
 * R² Score: 0.9507
 * Mean Absolute Error (MAE): 1282.13
-* 
+* ![model performance](https://github.com/santhoshkumarE2006/Medical_insurance_prediction/blob/main/images/Screenshot%202026-06-09%20100346.png?raw=true)
 
 The model achieved approximately 95% prediction accuracy, demonstrating strong performance on unseen data.
 
