@@ -131,6 +131,8 @@ Predicted Insurance Cost: ₹7,528.77
 
 ---
 
+![App Interface](images/Screenshot2026-06-0920115539.png)
+
 ## Author
 
 **Santhosh Kumar**
