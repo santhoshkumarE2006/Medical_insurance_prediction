@@ -131,7 +131,7 @@ Predicted Insurance Cost: ₹7,528.77
 
 ---
 
-![App Interface](images/Screenshot2026-06-0920115539.png)
+![App Interface](https://github.com/santhoshkumarE2006/Medical_insurance_prediction/blob/main/images/Screenshot%202026-06-09%20115539.png?raw=true)
 
 ## Author
 
